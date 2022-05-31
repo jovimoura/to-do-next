@@ -40,7 +40,7 @@ npm install
 ```
 ### Start application🤩
 ```
-npm run start
+npm run dev
 ```
 ### default port:🤗
 
@@ -69,7 +69,7 @@ npm install
 ```
 ### Inicie a aplicação🤩
 ```
-npm run start
+npm run dev
 ```
 ### A aplicação, por padrão, fica na porta:🤗
 

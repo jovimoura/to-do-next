@@ -1,34 +1,98 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Native Calculator 📱
 
-## Getting Started
+<p>
+  🇺🇸 Study project with React Native, Expo and JavaScript!
+</p>
 
-First, run the development server:
+<br/>
 
-```bash
-npm run dev
-# or
-yarn dev
+<p>
+  🇧🇷 Projeto de estudos com React Native, Expo e JavaScript!
+</p>
+
+# 🇧🇷 A aplicação está on-line no link | 🇺🇸 The application is online at the link:
+
+
+```
+https://to-do-next-virid.vercel.app/
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🇺🇸 If you want to analyze the project on your machine, follow this step by step. 🇧🇷 Caso você queira analisar o projeto em sua máquina, siga este passo a passo: 😁
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<br>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 🇺🇸 ENG
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Clone😎
 
-## Learn More
+```
+git clone https://github.com/jovimoura/to-do-next
+```
 
-To learn more about Next.js, take a look at the following resources:
+### Access the folder🤓
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+cd <folder>
+```
+### Install dependencies🤠
+```
+npm install
+```
+### Start application🤩
+```
+npm run start
+```
+### default port:🤗
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```
+http://localhost:3000/
+```
 
-## Deploy on Vercel
+<br>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🇧🇷 PT-BR
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Clone o repositório😎
+
+```
+git clone https://github.com/jovimoura/to-do-next
+```
+
+### Acesse o diretorio🤓
+
+```
+cd <nome-da-pasta>
+```
+### Instale as dependências🤠
+```
+npm install
+```
+### Inicie a aplicação🤩
+```
+npm run start
+```
+### A aplicação, por padrão, fica na porta:🤗
+
+```
+http://localhost:3000/
+```
+
+## 🇺🇸 Image | 🇧🇷 Imagem do projeto  💻
+
+<img style="width: 600px; height: 300px" src="./public/images/print.jpg">
+
+
+##  🇺🇸 Tecnologies and Libs | 🇧🇷 Tecnologias e Bibliotecas utilizadas🦉
+
+<ul>
+    <li>NextJS</li>
+    <li>TypeScript</li>
+    <li>Tailwind</li>
+    <li>React</li>
+</ul>
+
+##  🇧🇷 Feito por | 🇺🇸 Made by:
+
+### João Victor dos Santos Moura
+### E-mail: joaovictors.mouraa@gmail.com
+### Linkedin: https://www.linkedin.com/in/jovimoura10/

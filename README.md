@@ -1,13 +1,13 @@
 # Native Calculator 📱
 
 <p>
-  🇺🇸 Study project with React Native, Expo and JavaScript!
+  🇺🇸 To Do App made with NextJS, TypeScript, Tailwind and React.
 </p>
 
 <br/>
 
 <p>
-  🇧🇷 Projeto de estudos com React Native, Expo e JavaScript!
+  🇧🇷 Lista de tarefas feito com Next, TypeSCript, Tailwind e React.
 </p>
 
 # 🇧🇷 A aplicação está on-line no link | 🇺🇸 The application is online at the link:

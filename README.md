@@ -1,4 +1,4 @@
-# Native Calculator 📱
+# To Do Next 📱
 
 <p>
   🇺🇸 To Do App made with NextJS, TypeScript, Tailwind and React.

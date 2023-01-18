@@ -23,7 +23,6 @@ const Home: React.FC = () => {
   }
 
   const handleTaskChange = (id: number, done: boolean) => {
-    console.log('olha nos ae', id, done)
     let newList = [...items]
     for (let i in newList) {
       if (newList[i].id === id) {
@@ -56,8 +55,8 @@ const Home: React.FC = () => {
         />
       </Head>
 
-      <div className="flex fixed ">
-        <a className="text-gray mr-1">{NoteIcon()}</a>
+      <div className="flex fixed items-center justify-center gap-1">
+        <a className="text-gray">{NoteIcon()}</a>
         <h1 className=" text-gray font-bold text-2xl text-center">Reminders</h1>
       </div>
       <main className="flex flex-col h-screen  items-center px-0 lg:px-20">
